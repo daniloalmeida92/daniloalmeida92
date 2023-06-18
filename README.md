@@ -8,12 +8,8 @@
 
 ### Projetos Realizados
 
-- Primeiro projeto profissional aonde eu fiz um Web Site através da ferramenta Wix.
-
-  https://www.thiagovieiraadv.com.br/
 
 ### Objetivo
-- Atualmente estou em busca de recolocação no mercado de trabalho de suporte pra área de Dev.
 
 - Estou aprendendo Java OO, ainda estou me aperfeiçoando com a linguagem e aprendendo, não tenho experiência na área de dev 
 por isso estou fazendo atividades de cursos de programação e subindo para o github.
